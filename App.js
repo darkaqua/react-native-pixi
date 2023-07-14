@@ -3,7 +3,7 @@ import { WebView } from 'react-native-webview';
 
 export default function App() {
   
-  const PolicyHTML = require('./assets/build/index.html');
+  const PolicyHTML = require('./assets/index.html');
 
 
   const debugging = `
